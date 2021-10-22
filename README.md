@@ -10,7 +10,7 @@
 
 
 
-‣ you can find my additional gamedev stuff at @gaymerhours on twitter&nbsp;&nbsp;+&nbsp;+&nbsp;&nbsp;@madsrhea on itch.io
+‣ you can find my additional gamedev stuff at @junebugging_llc on twitter&nbsp;&nbsp;+&nbsp;+&nbsp;&nbsp;@madsrhea on itch.io
 
 
 
