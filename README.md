@@ -10,9 +10,6 @@
 
 
 
-‣ you can find my additional gamedev stuff at @junebugging_llc on twitter&nbsp;&nbsp;+&nbsp;+&nbsp;&nbsp;@madsrhea on itch.io
-
-
 
 <sub><sub><sub>///</sub></sub></sub>
 ********************************************************************************
