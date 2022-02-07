@@ -1,4 +1,4 @@
-‣ call me mads / winnie / whatever&nbsp;&nbsp;--&nbsp;&nbsp;any / all 
+‣ call me mads / winnie -- use any pronouns 
 
 
 
@@ -18,8 +18,7 @@
 
  <b>&nbsp;::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::&nbsp;&nbsp;currently working on&nbsp;&nbsp;::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::&nbsp;</b>
 
-    ‣ [ (dis)continuous.txt ]     ///	(https://github.com/madsrhea/madsrhea/files/7479993/dis.continuous.txt)
-
+    ‣ [ (dis)continuous.txt ]     ///	text file being updated
     
     ‣ [ untitled_survival_game ]  ///   text file unavailable -- coming soon
     
