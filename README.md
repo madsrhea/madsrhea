@@ -1,12 +1,8 @@
-‣ call me mads / winnie -- use any pronouns 
-
-
+call me mads / winnie -- use any pronouns 
 
 ‣ interested in making video games and tinkering with robotics .
-
-
 	
-‣ currently in school for software development / working as a line cook .
+‣ currently in school for software development - looking for work
 
 
 
@@ -18,13 +14,16 @@
 
  <b>&nbsp;::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::&nbsp;&nbsp;currently working on&nbsp;&nbsp;::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::&nbsp;</b>
 
-    ‣ [ (dis)continuous.txt ]     ///	text file being updated
+    ‣ [ (dis)continuous.txt ]     ///   text file lost ... oops! new one coming soon   ///  STAGE :: art & level design 
     
-    ‣ [ untitled_survival_game ]  ///   text file unavailable -- coming soon
+    ‣ [ untitled_survival_game ]  ///   text file unavailable -- coming soon           ///  STAGE :: dialogue currently being written
     
-    ‣ [ dq ]                      ///   text file ( and better name ) unavailable -- coming soon
+    ‣ [ its_your_unlucky_day ]    ///   text file unavailable -- coming soon           ///  STAGE :: nothing concrete, only ideas
     
-	‣ [ birds_of_a_feather ]      ///   text file unavailable -- possible abandonment on the horizon
+    ‣ [ birds_of_a_feather ]      ///   text file unavailable -- coming soon           ///  STAGE :: rough dialogue draft / old art made. possible revival for NaNoRenO
+
+    ‣ [ ps1_randomizer }          ///   https://madsrhea.github.io/ps1Randomizer/      ///  STAGE :: placement is (more or less) done - rest is Javascript
+
     
     
     
