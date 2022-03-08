@@ -22,7 +22,7 @@ call me mads / winnie -- use any pronouns
     
     ‣ [ birds_of_a_feather ]      ///   text file unavailable -- coming soon           ///  STAGE :: rough dialogue draft / old art made. possible revival for NaNoRenO
 
-    ‣ [ ps1_randomizer }          ///   https://madsrhea.github.io/ps1Randomizer/      ///  STAGE :: placement is (more or less) done - rest is Javascript
+    ‣ [ ps1_randomizer }          ///   https://madsrhea.github.io/ps1Randomizer/      ///  STAGE :: images downloaded - mainly just javascript / palette-making
 
     
     
@@ -33,7 +33,7 @@ call me mads / winnie -- use any pronouns
     
   <b>&nbsp;::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::&nbsp;&nbsp;completed&nbsp;&nbsp;projects &nbsp;&nbsp;::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::&nbsp;</b>
 
-	* [ madspixel-font ]		///	pixel-font i made for my games			///  FOUND AT :: https://www.github.com/madsrhea/fonts/madspixel
+	* [ madspixel-font ]		///	pixel-font i made for my games			///  FOUND AT :: https://github.com/madsrhea/madsrhea/tree/main/fonts/madspixel
                           
                           
 ********************************************************************************
