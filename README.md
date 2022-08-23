@@ -22,7 +22,7 @@ call me mads / winnie -- use any pronouns
     
     ‣ [ birds_of_a_feather ]      ///   text file unavailable -- coming soon           ///  STAGE :: rough dialogue draft / old art made. possible revival for NaNoRenO
 
-    ‣ [ ps1_randomizer }          ///   https://madsrhea.github.io/ps1Randomizer/      ///  STAGE :: images downloaded - mainly just javascript / palette-making
+    ‣ [ mini-practices ]          ///	link coming soon			       ///  constant updates
 
     
     
