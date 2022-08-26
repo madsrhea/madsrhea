@@ -1,4 +1,4 @@
-call me mads / winnie -- use any pronouns 
+call me whatever [ any / all ]
 
 ‣ interested in making video games and tinkering with robotics .
 	
@@ -16,13 +16,15 @@ call me mads / winnie -- use any pronouns
 
     ‣ [ (dis)continuous.txt ]     ///   text file lost ... oops! new one coming soon   ///  STAGE :: art & level design 
     
-    ‣ [ untitled_survival_game ]  ///   text file unavailable -- coming soon           ///  STAGE :: dialogue currently being written
+    ‣ [ what_happened_on_thilles-593 ]  ///   text file unavailable -- coming soon           ///  STAGE :: dialogue currently being written
     
     ‣ [ its_your_unlucky_day ]    ///   text file unavailable -- coming soon           ///  STAGE :: nothing concrete, only ideas
     
-    ‣ [ birds_of_a_feather ]      ///   text file unavailable -- coming soon           ///  STAGE :: rough dialogue draft / old art made. possible revival for NaNoRenO
+    ‣ [ birds_of_a_feather ]      ///   text file unavailable -- coming soon           ///  STAGE :: rough dialogue draft / old art made. possible revival for practice
+    
+    * [ ]
 
-    ‣ [ mini-practices ]          ///	link coming soon			       ///  constant updates
+    ‣ [ mini-practices ]          ///link coming soon			       ///  constant updates
 
     
     
