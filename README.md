@@ -1,6 +1,4 @@
-call me whatever [ any / all ]
-
-‣ interested in making video games and tinkering with robotics .
+‣ interested in making video games and tinkering with robotics.
 	
 ‣ currently in school for software development - looking for work
 
@@ -12,7 +10,7 @@ call me whatever [ any / all ]
 	
 
 
-<h1><b>:::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::&nbsp;&nbsp;currently working on&nbsp;&nbsp;::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..:::</b></h1>
+<h1><b>:::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::&nbsp;&nbsp;games im slowly working on&nbsp;&nbsp;::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..:::</b></h1>
 
     ‣ [ (dis)continuous.txt ]     		///   text file lost ... oops! new one coming soon   ///  STAGE :: art & level design 
     
@@ -21,6 +19,8 @@ call me whatever [ any / all ]
     ‣ [ its_your_unlucky_day ]    		///   text file unavailable -- coming soon           ///  STAGE :: nothing concrete, only ideas
     
     ‣ [ birds_of_a_feather ]      		///   text file unavailable -- coming soon           ///  STAGE :: rough dialogue draft / old art made. possible revival for practice
+    
+    ‣ [ untitled_fighting_game ]      		///   text file unavailable -- coming soon           ///  STAGE :: characters, moves, and stages
 
     ‣ [ mini-practices ]          		///   link coming soon			       	     ///  constant updates
 
