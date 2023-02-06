@@ -20,7 +20,7 @@
     
     ‣ [ birds_of_a_feather ]      		///   text file unavailable -- coming soon           ///  STAGE :: rough dialogue draft / old art made. possible revival for practice
     
-    ‣ [ untitled_fighting_game ]      		///   text file unavailable -- coming soon           ///  STAGE :: characters, moves, and stages
+    ‣ [ untitled_fighting_game ]      	///   text file unavailable -- coming soon           ///  STAGE :: characters, moves, and stages
 
     ‣ [ mini-practices ]          		///   link coming soon			       	     ///  constant updates
 
