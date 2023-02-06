@@ -12,7 +12,7 @@
 
 <h1><b>:::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::&nbsp;&nbsp;games im slowly working on&nbsp;&nbsp;::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..:::</b></h1>
 
-    ‣ [ (dis)continuous.txt ]     		///   text file lost ... oops! new one coming soon   ///  STAGE :: art & level design 
+    ‣ [ (dis)continuous ]     		///   text file lost ... oops! new one coming soon   ///  STAGE :: art & level design 
     
     ‣ [ what_happened_on_thilles-593? ] 	///   text file unavailable -- coming soon           ///  STAGE :: dialogue currently being written
     
