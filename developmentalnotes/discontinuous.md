@@ -65,7 +65,7 @@ everything but the player controls were coded by me. the code that makes the cha
 while jumping was a script someone else posted. i wish i was that good. i WANT to be that good. 
 
 alright, so... i don't know how to explain the plot without sounding dumb. (implying that the
-other ones i've outline haven't.) but, uh, i came up with this game in 2018. i was going
+other ones i've outline haven't.) but, uh, i came up with this game in 2019. i was going
 through a rough time working a night shift and it was a very isolating experience
 since all the people i wanted to hang out with weren't awake when i was. i was knee-deep in
 the middle of a solid year of not eating above 800 calories a day but, my main
