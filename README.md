@@ -12,7 +12,7 @@
 
 <h1><b>:::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..::&nbsp;&nbsp;projects&nbsp;&nbsp;::..&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;..:::</b></h1>
 
-    ‣ [ (dis)continuous ]     		///   [updated 2023_02_06]				///  FOUND AT :: https://github.com/madsrhea/madsrhea/blob/main/developmentalnotes/discontinuous.txt
+    ‣ [ (dis)continuous ]     		///   [updated 2023_02_27]				///  FOUND AT :: https://github.com/madsrhea/madsrhea/blob/main/developmentalnotes/discontinuous.md
     
     ‣ [ what_happened_on_thilles-593? ] 	///   [updated 2023_02_06]				///  FOUND AT :: https://github.com/madsrhea/madsrhea/blob/main/developmentalnotes/what_happened_on_thilles-593.txt
     
