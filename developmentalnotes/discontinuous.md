@@ -34,9 +34,9 @@ scratches a long exisiting itch of mine and pads my resume real nice.
 anyway, i'm hoping i'll be able to dredge up the old file since i had a cool collection
 of notes in there... and also a pre-established style guide to follow for these text files. 
 but, it's all jazz anyway
+```
 
----
-
+```
 :: :. .. . .. .: :: 2023_02_26 :: :. .. . .. .: ::
 
 no luck on the hunt for my old notes so i guess we're starting from scratch here. but,
@@ -44,11 +44,11 @@ on the brightside, i have something better: gifs from the first draft of this ga
 
 this first one we have here is the original title screen:
 ```
-![original home screen](https://64.media.tumblr.com/ac0f1a218471c1544108aaba4075ead3/3379f245adc150ba-4a/s540x810/be9b56c751429fe6a6e6e068dd8fa74ecd46d800.gifv)
+![original home screen](https://i.imgur.com/FiWl8ZS.gifv)
 
 ```and here we have a tidbit of the opening scene: ```
 
-![opening scene](https://64.media.tumblr.com/644e8305dfc134733bd3642860863b59/3379f245adc150ba-cc/s500x750/e897c2122962b26025423a26be72d8524d3b7f34.gifv)
+![opening scene](https://i.imgur.com/IGL15iK.gifv)
 ```
 rough-ish art aside, i'm pretty proud of the composition here. nevermind that the game
 barely functioned. but, to my credit, it was my first time working with C# and the teacher
@@ -58,7 +58,7 @@ it's a miracle it functioned. and it did! the movement worked! the background mo
 i wanted it to! i had a whole box and button combo that i coded! VERY proud of that box
 and button.
 ```
-![said box and button](https://s3.gifyu.com/images/boxandbutton.gif)
+![said box and button](https://i.imgur.com/0E1AMy5.gifv)
 
 ```
 everything but the player controls were coded by me. the code that makes the character stretch 
@@ -112,8 +112,8 @@ again, that is if i manage to actually make the damn thing.
 ok, my cat has the "im gonna jump on you" look in her eyes. im calling it here.
 until next time 👋
 
----
-
+```
+```
 :: :. .. . .. .: :: ::: :: :. .. . .. .: :: ::: :: :. .. . .. .: :: ::: :: :. .. . .. .: :: ::: :: :. .. . .. .: :: :::
 
 END OF DISCONTINUOUS.TXT
