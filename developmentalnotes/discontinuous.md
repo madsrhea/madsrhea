@@ -18,10 +18,9 @@
 :: :. .. . .. .: :: ::: :: :. .. . .. .: :: ::: :: :. .. . .. .: :: ::: :: :. .. . .. .: :: ::: :: :. .. . .. .: :: :::
 ```
 
+# DEVELOPMENTAL NOTES
+
 ```
-
-DEVELOPMENTAL NOTES
-
 :: :. .. . .. .: :: 2023_02_06 :: :. .. . .. .: ::
 
 I HAVE LOST THE LAST GUIDE I MADE FOR THIS which is a real shame since it had a whole
@@ -34,6 +33,8 @@ scratches a long exisiting itch of mine and pads my resume real nice.
 anyway, i'm hoping i'll be able to dredge up the old file since i had a cool collection
 of notes in there... and also a pre-established style guide to follow for these text files. 
 but, it's all jazz anyway
+
+---
 ```
 
 ```
@@ -61,8 +62,12 @@ and button.
 ![said box and button](https://i.imgur.com/0E1AMy5.gif)
 
 ```
+all the art was done by me (except the box i think? not sure why i didnt just draw one up.)
 everything but the player controls were coded by me. the code that makes the character stretch 
-while jumping was a script someone else posted. i wish i was that good. i WANT to be that good. 
+while jumping was a script someone else posted. i wish i was that good. i WANT to be that good.
+
+(i feel really bad that i can't remember who posted the script but i promise the second
+i find the source, i will link it here.)
 
 alright, so... i don't know how to explain the plot without sounding dumb. (implying that the
 other ones i've outline haven't.) but, uh, i came up with this game in 2019. i was going
@@ -112,6 +117,7 @@ again, that is if i manage to actually make the damn thing.
 ok, my cat has the "im gonna jump on you" look in her eyes. im calling it here.
 until next time 👋
 
+---
 ```
 ```
 :: :. .. . .. .: :: ::: :: :. .. . .. .: :: ::: :: :. .. . .. .: :: ::: :: :. .. . .. .: :: ::: :: :. .. . .. .: :: :::
