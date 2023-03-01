@@ -138,6 +138,15 @@ again, that is if i manage to actually make the damn thing.
 ok, my cat has the "im gonna jump on you" look in her eyes. im calling it here.
 until next time 👋
 
+2023_03_01 ADDITION:
+not worthy of it's own chunk, but something else i was excited about is the level design.
+minmo keeps traveling downward so you'd start in the clouds, make your way down until you
+get to a deep, deep, deep cave. but, also, it was all lucid dreaming so incorporating like 
+some fun brain wrinkles into the walls or synapses firing off in a field to mimic fireflies.
+y'know, all sorts of fun stuff like that.
+
+alright. that's all 👍
+
 ---
 ```
 ```
