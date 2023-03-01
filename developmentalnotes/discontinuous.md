@@ -44,11 +44,11 @@ on the brightside, i have something better: gifs from the first draft of this ga
 
 this first one we have here is the original title screen:
 ```
-![original home screen](https://i.imgur.com/FiWl8ZS.gifv)
+![original home screen](https://i.imgur.com/FiWl8ZS.gif)
 
 ```and here we have a tidbit of the opening scene: ```
 
-![opening scene](https://i.imgur.com/IGL15iK.gifv)
+![opening scene](https://i.imgur.com/IGL15iK.gif)
 ```
 rough-ish art aside, i'm pretty proud of the composition here. nevermind that the game
 barely functioned. but, to my credit, it was my first time working with C# and the teacher
@@ -58,7 +58,7 @@ it's a miracle it functioned. and it did! the movement worked! the background mo
 i wanted it to! i had a whole box and button combo that i coded! VERY proud of that box
 and button.
 ```
-![said box and button](https://i.imgur.com/0E1AMy5.gifv)
+![said box and button](https://i.imgur.com/0E1AMy5.gif)
 
 ```
 everything but the player controls were coded by me. the code that makes the character stretch 
