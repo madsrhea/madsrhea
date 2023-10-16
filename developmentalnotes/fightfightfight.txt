@@ -95,10 +95,11 @@ reaaaaaaaaaaaally like C#. maybe i'll give godot a try for discontinuous.
 
 but, we're not talking about that game right now. what we're talking about is
 this game, Fight! Fight! Fight! (shorthand FX3), and i'm glad to say there is actually
-some process happening on it over here. I got a folder of a few of the characters
-and i've got their moves/buttons written out and some rough animations made that
-all work in game! i dont have the hit or hurtboxes in place yet but boy you can
-really get your character kicking and jumping and crouching up a storm.
+some process happening on it over here. I decided to go with gamemaker - I got 
+a folder of a few of the characters and i've got their moves/buttons written out 
+and some rough animations made that all work in game! i dont have the 
+hit or hurtboxes in place yet but boy you canreally get your character kicking
+and jumping and crouching up a storm.
 
 link the google drive here: https://drive.google.com/drive/folders/1cp9hV05go_h-M3pRn9lZpMxrnhtHnMaj?usp=drive_link
 
