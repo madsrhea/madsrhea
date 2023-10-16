@@ -82,6 +82,38 @@ too! who knows? i'll have to ask. i guess we'll get to that next time.
 
 ---
 
+:: :. .. . .. .: :: 2023_10_16 :: :. .. . .. .: ::
+
+wow! haven't seen you guys for a sec! how exciting to be back!
+
+anyway, those of you who are game devs or even slightly interested in indie
+games knows what happened with unity and the massive fuck up that happened there.
+they forced the CEO to retire early but i sure as hell don't trust them anymore.
+
+so! unity is off the table for all games! which is a shame, because again:
+reaaaaaaaaaaaally like C#. maybe i'll give godot a try for discontinuous.
+
+but, we're not talking about that game right now. what we're talking about is
+this game, Fight! Fight! Fight! (shorthand FX3), and i'm glad to say there is actually
+some process happening on it over here. I got a folder of a few of the characters
+and i've got their moves/buttons written out and some rough animations made that
+all work in game! i dont have the hit or hurtboxes in place yet but boy you can
+really get your character kicking and jumping and crouching up a storm.
+
+link the google drive here: https://drive.google.com/drive/folders/1cp9hV05go_h-M3pRn9lZpMxrnhtHnMaj?usp=drive_link
+
+i'll need to replace the placeholder photos since they're my .NET programming
+teacher's face. i swear it's not mocking: it's done entirely out of respect.
+but, i also don't need to tarnish his reputation with whatever the hell
+i'm gonna make. 
+
+but, the gifs that are currently (and only) in Anna's folder are the place
+-holder sprites. i wanna make some big ass sprites at some point. like 300px
+tall. but, there'll be no game if i start with that, so here we are!
+
+hopefully i'll update before another 8 months. 
+and hopefully it'll be a bigger update than this one.
+
 :: :. .. . .. .: :: ::: :: :. .. . .. .: :: ::: :: :. .. . .. .: :: ::: :: :. .. . .. .: :: ::: :: :. .. . .. .: :: ::: :: :. .. . .. .: :: ::: :: :. .. . .. .: :: :::
 
 END OF FIGHTFIGHTFIGHT.TXT
