@@ -20,7 +20,7 @@
     
     ‣ [ birds_of_a_feather ]      		///   text file unavailable -- coming soon		///  STAGE :: rough dialogue draft / old art made. possible revival for practice
     
-    ‣ [ fight! fight! fight! ]      	///   [updated 2023_02_18]				///  FOUND AT :: https://github.com/madsrhea/madsrhea/blob/main/developmentalnotes/fightfightfight.txt
+    ‣ [ fight! fight! fight! ]      	///   [updated 2023_10_16]				///  FOUND AT :: https://github.com/madsrhea/madsrhea/blob/main/developmentalnotes/fightfightfight.txt
 
     ‣ [ mini-practices ]          		///   [updated 2023_02_18]				///  FOUND AT :: https://github.com/madsrhea/mini-practices.git
 
